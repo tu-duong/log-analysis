@@ -1,4 +1,4 @@
-# Project log analysis
+# Project log analysis using SQL and Python
 
 This project analyzes the  new website log and comes up with answers for 3 questions:
 1. What are the top 3 articles?
